@@ -1,12 +1,13 @@
-Install dependencies
-Khởi tạo một môi trường ảo, nếu lệnh này bị lỗi bạn phải cài đặt virtualenv (python3 -m pip install --user virtualenv)
+**Install dependencies**
 
-python3 -m venv venv
+- Khởi tạo một môi trường ảo, nếu lệnh này bị lỗi bạn phải cài đặt virtualenv (python3 -m pip install --user virtualenv)
 
-Load môi trường ảo
+    `python3 -m venv venv`
 
-source venv/bin/activate
+- Load môi trường ảo
 
-Cài đặt các thư viện được liệt kê trong requirements.txt
+    `source venv/bin/activate`
 
-pip install -r requirements.txt
+- Cài đặt các thư viện được liệt kê trong requirements.txt
+
+    `pip install -r requirements.txt`
